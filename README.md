@@ -19,7 +19,7 @@ Currently working at **ICICI Lombard**, building Azure-based data lakehouse solu
 
 ### 📫 Connect with Me
 🌐 [LinkedIn](https://linkedin.com/in/priyam-shah)  
-💻 [Portfolio Projects](https://github.com/priyam-shah?tab=repositories)  
+💻 [Portfolio Projects]([https://github.com/priyam-shah?tab=repositories](https://github.com/Priyam46))  
 ✉️ priyamshah.work@gmail.com  
 
 ---
